@@ -2,7 +2,7 @@
 
 # Multiplexed FISH Data Analysis Script
 
-This Python script, developed by Loucif Remini, Midas Segers, John Palmeri, Jean-Charles Walter, Andrea Parmeggiani, and Enrico Carlon, serves as a tool for the analysis of multiplexed FISH (Fluorescence In Situ Hybridization) data fro Bintu et al (2018). The script is designed to process data from a CSV file, providing comprehensive insights into chromatin structure based on the methodology outlined in the publication "Chromatin structure from high-resolution microscopy: scaling laws and microphase separation" by Remini et al. (2018).
+This Python script, developed by Loucif Remini, Midas Segers, John Palmeri, Jean-Charles Walter, Andrea Parmeggiani, and Enrico Carlon, serves as a tool for the analysis of multiplexed FISH (Fluorescence In Situ Hybridization) data fro Bintu et al (2018). The script is designed to process data from a CSV file, providing comprehensive insights into chromatin structure based on the methodology outlined in the publication "Chromatin structure from high-resolution microscopy: scaling laws and microphase separation" by Remini et al. (2023).
 
 ## Features
 
@@ -35,4 +35,4 @@ This script was last updated on November 18, 2023.
 
 ## How to Cite
 
-If you find this script helpful in your research, please consider citing the related publication.
+If you find this script helpful in your research, please consider citing the related publication : https://www.researchgate.net/publication/372939539_Chromatin_structure_from_high_resolution_microscopy_scaling_laws_and_microphase_separation
