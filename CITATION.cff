@@ -15,8 +15,10 @@ authors:
     affiliation: Laboratoire Charles Coulomb
   - given-names: 'Midas '
     family-names: Segers
+    affiliation: KU Leuven
   - given-names: Enrico
     family-names: Carlon
+    affiliation: KU Leuven
 repository-code: >-
   https://github.com/Loucif-REMINI/polymer-model-analyses-of-chromatin-mFISH-data?search=1
 date-released: '2023-11-23'
