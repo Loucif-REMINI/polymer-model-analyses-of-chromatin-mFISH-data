@@ -24,7 +24,7 @@ This Python script, developed by Loucif Remini, Midas Segers, John Palmeri, Jean
 ## Usage
 
 To utilize the script, input your data in CSV format and execute the provided functions. The script will generate visualizations and summaries, offering a comprehensive overview of your multiplexed FISH data.
-
+The data used can be doewnloaded from Bogdan Bintu's repository : https://github.com/BogdanBintu/ChromatinImaging/tree/master/Data
 ## Publication Reference
 
 The script is based on the methodology outlined in the publication "Chromatin structure from high-resolution microscopy: scaling laws and microphase separation" by Remini et al. (2023).
