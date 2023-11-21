@@ -29,8 +29,7 @@ The data used can be downloaded from [Bogdan Bintu's repository](https://github.
 
 :page_facing_up: Publication Reference
 
-The script is based on the methodology outlined in the publication ["Chromatin structure from high-resolution microscopy: scaling laws and microphase separation"](https://www.researchgate.net/publication/372939539_Chromatin_structure_from_high_resolution_microscopy_scaling_laws_and_microphase_separation) by Remini et al. (2023). 
-Read the publication
+The script is based on the methodology outlined in the publication "Chromatin structure from high-resolution microscopy: scaling laws and microphase separation" by Remini et al. (2023). [Read the publication](https://www.researchgate.net/publication/372939539_Chromatin_structure_from_high_resolution_microscopy_scaling_laws_and_microphase_separation)
 
 :date: Date
 
