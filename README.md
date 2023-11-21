@@ -2,7 +2,7 @@
 
 :bar_chart: Multiplexed FISH Data Analysis Script
 
-This Python script, developed by Loucif Remini, Midas Segers, and Enrico Carlon, serves as a tool for the analysis of multiplexed FISH (Fluorescence In Situ Hybridization) data from Bintu et al (2018). The script is designed to process any data from a CSV file giving the 3D spatial coordinates of fluorescent probes and provides comprehensive insights into chromatin structure based on the methodology outlined in the publication "Chromatin structure from high-resolution microscopy: scaling laws and microphase separation" by Remini et al. (2023).
+This Python script, developed by Loucif Remini, Midas Segers, and Enrico Carlon, serves as a tool for the analysis of multiplexed FISH (Fluorescence In Situ Hybridization) data from Bintu et al (2018). The script is designed to process any data from a CSV file giving the 3D spatial coordinates of fluorescent probes and provides comprehensive insights into chromatin structure based on the methodology outlined in the publication ["Chromatin structure from high-resolution microscopy: scaling laws and microphase separation"](https://www.researchgate.net/publication/372939539_Chromatin_structure_from_high_resolution_microscopy_scaling_laws_and_microphase_separation) by Remini et al. (2023). 
 Read the publication
 
 :rocket: Features
@@ -25,11 +25,11 @@ Predict the position of the beta phase in single cells, enhancing predictive cap
 :computer: Usage
 
 To utilize the script, input your data in CSV format and execute the provided functions. The script will generate visualizations and summaries, offering a comprehensive overview of your multiplexed FISH data.
-The data used can be downloaded from Bogdan Bintu's repository
+The data used can be downloaded from [Bogdan Bintu's repository](https://github.com/BogdanBintu/ChromatinImaging/tree/master/Data).
 
 :page_facing_up: Publication Reference
 
-The script is based on the methodology outlined in the publication "Chromatin structure from high-resolution microscopy: scaling laws and microphase separation" by Remini et al. (2023).
+The script is based on the methodology outlined in the publication ["Chromatin structure from high-resolution microscopy: scaling laws and microphase separation"](https://www.researchgate.net/publication/372939539_Chromatin_structure_from_high_resolution_microscopy_scaling_laws_and_microphase_separation) by Remini et al. (2023). 
 Read the publication
 
 :date: Date
@@ -38,4 +38,4 @@ This script was last updated on November 21, 2023.
 
 :bookmark_tabs: How to Cite
 
-If you find this script helpful in your research, please consider citing the related publication: Read the publication
+If you find this script helpful in your research, please consider citing the related [publication](https://www.researchgate.net/publication/372939539_Chromatin_structure_from_high_resolution_microscopy_scaling_laws_and_microphase_separation).
